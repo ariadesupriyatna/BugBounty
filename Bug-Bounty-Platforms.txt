@@ -1,0 +1,22 @@
+
+Bug Bounty Platforms
+
+Bugcrowd : https://bugcrowd.com/ 
+Hackerone : https://hackerone.com/ 
+Google : https://google.com/about/appsecurity/ 
+Facebook : https://facebook.com/BugBounty/
+Open Bug Bounty : https://www.openbugbounty.org/ 
+RedStorm : https://www.redstorm.io/
+CyberArmyID : https://www.cyberarmy.id/programs/
+HackTrophy : https://hacktrophy.com/
+ BountyGraph : https://bountygraph.com/ 
+PlugBounty : https://www.plugbounty.com/ 
+intigriti : https://www.intigriti.com/ 
+SlowMist : https://www.slowmist.com/
+ Synack : https://synack.com/ 
+Japan Bug bounty Program : https://bugbounty.jp/
+ Cobalt : https://cobalt.io/ 
+Zerocopter : https://zerocopter.com/ 
+Hackenproof : https://hackenproof.com/
+ BountyFactory : https://bountyfactory.io
+ AntiHack : https://www.antihack.me/ 
