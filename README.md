@@ -1,2 +1,1 @@
-# BugBounty
-Gazz Mamank
+BugBounty 
